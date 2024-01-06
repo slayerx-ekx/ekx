@@ -1,2 +1,2 @@
 # ekx
-hahahihihehehuhu
+ini jadwal sekolah simpel mengunakan python 
